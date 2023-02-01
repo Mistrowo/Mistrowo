@@ -1,8 +1,8 @@
 
-<h4 align="center"><samp> Hi there 👋  I'm a Chaos Studient,  I also like Js, React, etc and I'm exploring IA 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋  I'm a Studient in Diego Portales University ,  I also like Js, React, etc and I'm exploring IA 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://giphy.com/gifs/smoke-alien-ufo-VxTnXfBW9sRB6">
 </p>
 
 
