@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Hi there 👋  I'm a Studient in Diego Portales University ,  I also like Js, React, etc and I'm exploring IA 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://giphy.com/gifs/smoke-alien-ufo-VxTnXfBW9sRB6">
+  <img width="250" src="https://lifesafjoke.tumblr.com/post/124043579634/follow-for-more">
 </p>
 
 
