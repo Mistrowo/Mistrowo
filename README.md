@@ -1,5 +1,5 @@
-<h1 align="center">Hola soy Alex Parada</h1>
-<h3 align="center">Apasioando en la ciencia de datos y el mundo del FullStack:D!</h3>
+<h1 align="center">Hola soy Alex Parada :D</h1>
+<h3 align="center">Apasionado en la ciencia de datos y el mundo del FullStack :D!</h3>
 
 - 📫 Como llegar a mi? **alexantonioperaltaparada@gmail.com**
 
