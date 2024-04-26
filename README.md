@@ -1,6 +1,13 @@
 <h1 align="center">Hola soy Alex Parada :D</h1>
 <h3 align="center">Apasionado en la ciencia de datos y el mundo del FullStack :D!</h3>
 
+
+
+
+
+ <p align="center">
+  <img width="250" src="https://media.giphy.com/media/VxTnXfBW9sRB6/giphy.gif?cid=ecf05e47vk4d59h4lvef6qiv22w9xsh1y2jkwmevlct070fz&rid=giphy.gif&ct=g">
+</p>
 - 📫 Como llegar a mi? **alexantonioperaltaparada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
